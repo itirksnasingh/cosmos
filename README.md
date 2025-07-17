@@ -4,7 +4,10 @@ A parallax-based solar system blog with interactive quizzes.
 
 Welcome to **Cosmos**, an interactive, front-end-only simulation of our solar system. This project visually represents planets and their orbits using HTML, CSS, and SCSS, offering a beautifully animated experience of space right in your browser.
 
-![Project Preview](./COSMOS.mp4)
+## 📸 Project Preview
+
+🎥 [Click to watch the preview video](./COSMOS.mp4)
+
 
 ---
 
