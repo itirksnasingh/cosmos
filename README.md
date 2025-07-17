@@ -47,7 +47,7 @@ cosmos/
 
 You can view the simulation by opening `2index.html` or `temp.html` in your browser.
 
-![Screenshot](./preview2.png)
+![Screenshot]("C:\Users\sanskriti\Videos\COSMOS.mp4")
 
 > Tip: For the best experience, open in a fullscreen browser window.
 
@@ -57,7 +57,7 @@ You can view the simulation by opening `2index.html` or `temp.html` in your brow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cosmos.git
+   git clone https://github.com/itirksnasingh/cosmos.git
    ```
 2. Open `2index.html` in your browser.
 3. Enjoy the space tour!
